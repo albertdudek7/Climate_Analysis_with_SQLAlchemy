@@ -2,7 +2,11 @@
 
 
 Looked at several class activities to help structure and find appropriate code for this assignment. 
+
+
 Specifically, the dates_solution code was insightful for date functions and chinook_db_analysis for designing a query to calculate most active stations. 
+
+
 
 
 
