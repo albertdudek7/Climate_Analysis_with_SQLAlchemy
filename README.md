@@ -1,5 +1,21 @@
 # sqlalchemy-challenge
 
+
+Looked at several class activities to help structure and find appropriate code for this assignment. 
+Specifically, the dates_solution code was insightful for date functions and chinook_db_analysis for designing a query to calculate most active stations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Instructions
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 
