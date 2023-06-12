@@ -9,7 +9,7 @@ Specifically, the dates_solution code was insightful for date functions and chin
 Help from Robert Perron to make sure my pathway was working. (Thank you!)
 
 
-
+Some help from questions posed by classmates in Slack specifically Aaron Otto and Shaun McPeck(instructor) when it came to using Flask + SQL Alchemy. 
 
 
 
