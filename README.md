@@ -6,6 +6,8 @@ Looked at several class activities to help structure and find appropriate code f
 
 Specifically, the dates_solution code was insightful for date functions and chinook_db_analysis for designing a query to calculate most active stations. 
 
+Help from Robert Perron to make sure my pathway was working. (Thank you!)
+
 
 
 
