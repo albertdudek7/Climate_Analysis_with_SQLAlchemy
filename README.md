@@ -33,4 +33,13 @@ Designed a query to find the most-active stations.
 Part 2: Design Climate App
 Designed a Flask API based on the queries that were developed. 
 
+![image](https://github.com/albertdudek7/Climate_Analysis_with_SQLAlchemy/assets/127783844/bcb3b896-59aa-4aa1-89c3-27b855260188)
+
+![image](https://github.com/albertdudek7/Climate_Analysis_with_SQLAlchemy/assets/127783844/8557d86f-72ee-4676-9108-f581bd8875c8)
+
+![image](https://github.com/albertdudek7/Climate_Analysis_with_SQLAlchemy/assets/127783844/c6e1bcec-72a8-4f28-8e67-06401316a3d6)
+
+
+
+
 
